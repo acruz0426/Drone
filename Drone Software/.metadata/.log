@@ -1,0 +1,33 @@
+!SESSION 2022-07-21 13:52:38.471 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/andrescruz/Desktop/Drone Flight Controller/Drone Software -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-21 13:52:46.233
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-21 13:52:46.330
+!MESSAGE Log4j initialized with config file /home/andrescruz/Desktop/Drone Flight Controller/Drone Software/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-21 13:52:50.497
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-21 13:55:53.268
+!MESSAGE Indexed 'Flight Controller Firmware' (19 sources, 81 headers) in 5.78 sec: 4,291 declarations; 17,450 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0092%)
+!SESSION 2022-07-21 14:41:58.976 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-21 14:42:09.154
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-21 14:42:09.261
+!MESSAGE Log4j initialized with config file /home/andrescruz/Desktop/Drone Flight Controller/Drone Software/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-21 14:42:16.347
+!MESSAGE Started RMI Server, listening on port 41337
